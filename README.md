@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">"Building AI solutions with a passion for data and a drive for innovation" - A data scientist's journey through machine learning and beyond.</h3>
 <img align="right" alt="Coding" width="400" src=https://www.behance.net/gallery/161921919/Portrait-animated-gif/modules/913447149>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maheksingh01&label=Profile%20views&color=0e75b6&style=flat" alt="emperorkarma" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emperorkarma&label=Profile%20views&color=0e75b6&style=flat" alt="emperorkarma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emperorkarma" alt="emperorkarma" /></a> </p>
 
