@@ -1,10 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Lokesh Joshi</h1>
-
-
 <h3 align="center">"Building AI solutions with a passion for data and a drive for innovation" - A data scientist's journey through machine learning and beyond.</h3>
 
-<img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emperorkarma&label=Profile%20views&color=0e75b6&style=flat" alt="emperorkarma" /> </p>
 
@@ -13,6 +10,8 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning And Deep Learning**
+
+- 👨‍💻 All of my projects are available at [https://github.com/EmperorKarma](https://github.com/EmperorKarma)
 
 - 📫 How to reach me **lokeshjoshi2801@gmail.com**
 
