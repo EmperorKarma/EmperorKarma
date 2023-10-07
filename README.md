@@ -1,3 +1,7 @@
+
+<h1 align="center">Hi 👋, I'm Lokesh Joshi</h1>
+
+
 <h3 align="center">"Building AI solutions with a passion for data and a drive for innovation" - A data scientist's journey through machine learning and beyond.</h3>
 
 <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
